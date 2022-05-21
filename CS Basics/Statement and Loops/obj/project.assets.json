@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Statement and Loops\\Statement and Loops.csproj",
+      "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Statement and Loops\\Statement and Loops.csproj",
       "projectName": "Statement and Loops",
-      "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Statement and Loops\\Statement and Loops.csproj",
+      "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Statement and Loops\\Statement and Loops.csproj",
       "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Statement and Loops\\obj\\",
+      "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Statement and Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

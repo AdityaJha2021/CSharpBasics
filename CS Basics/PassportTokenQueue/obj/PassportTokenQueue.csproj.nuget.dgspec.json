@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj": {}
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj": {
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj",
+        "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj",
         "projectName": "PassportTokenQueue",
-        "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj",
+        "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\PassportTokenQueue\\PassportTokenQueue.csproj",
         "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\PassportTokenQueue\\obj\\",
+        "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\PassportTokenQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

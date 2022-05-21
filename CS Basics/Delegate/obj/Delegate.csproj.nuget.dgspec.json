@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Delegate\\Delegate.csproj": {}
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Delegate\\Delegate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Delegate\\Delegate.csproj": {
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Delegate\\Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Delegate\\Delegate.csproj",
         "projectName": "Delegate",
-        "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Delegate\\Delegate.csproj",
+        "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Delegate\\Delegate.csproj",
         "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Delegate\\obj\\",
+        "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

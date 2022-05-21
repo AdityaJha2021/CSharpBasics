@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Operators\\Operators.csproj",
+      "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Operators\\Operators.csproj",
       "projectName": "Operators",
-      "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Operators\\Operators.csproj",
+      "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Operators\\Operators.csproj",
       "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Operators\\obj\\",
+      "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

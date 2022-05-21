@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj": {}
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj": {
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj",
+        "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj",
         "projectName": "ReflectionDemo",
-        "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj",
+        "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\ReflectionDemo\\ReflectionDemo.csproj",
         "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\ReflectionDemo\\obj\\",
+        "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\ReflectionDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

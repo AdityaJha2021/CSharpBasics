@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\CS Basic and Console\\CS Basic and Console.csproj",
+      "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\CS Basic and Console\\CS Basic and Console.csproj",
       "projectName": "CS Basic and Console",
-      "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\CS Basic and Console\\CS Basic and Console.csproj",
+      "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\CS Basic and Console\\CS Basic and Console.csproj",
       "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\CS Basic and Console\\obj\\",
+      "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\CS Basic and Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

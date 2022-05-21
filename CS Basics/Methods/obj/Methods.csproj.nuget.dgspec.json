@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Methods\\Methods.csproj": {}
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Methods\\Methods.csproj": {
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Methods\\Methods.csproj",
+        "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Methods\\Methods.csproj",
+        "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

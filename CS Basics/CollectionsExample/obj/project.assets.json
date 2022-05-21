@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\CollectionsExample\\CollectionsExample.csproj",
+      "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\CollectionsExample\\CollectionsExample.csproj",
       "projectName": "CollectionsExample",
-      "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\CollectionsExample\\CollectionsExample.csproj",
+      "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\CollectionsExample\\CollectionsExample.csproj",
       "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\CollectionsExample\\obj\\",
+      "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\CollectionsExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

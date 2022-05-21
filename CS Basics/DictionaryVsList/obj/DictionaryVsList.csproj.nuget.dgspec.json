@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj": {}
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj": {
+    "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj",
+        "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj",
         "projectName": "DictionaryVsList",
-        "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj",
+        "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\DictionaryVsList\\DictionaryVsList.csproj",
         "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\DictionaryVsList\\obj\\",
+        "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\DictionaryVsList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",

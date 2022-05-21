@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\aprakash58\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\aprakash58\\Downloads\\Git Tutorial\\CS Basics\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aprakash58\\AppData\\Roaming\\NuGet\\NuGet.Config",
