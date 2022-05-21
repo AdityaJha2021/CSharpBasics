@@ -19,7 +19,7 @@ namespace WebApplication1.Controllers
             _logger = logger;
         }
 
-        [ActionName("sample")]
+        [ActionName("getSample")]
         public PartialViewResult GetSample()
         {
             return PartialView();
