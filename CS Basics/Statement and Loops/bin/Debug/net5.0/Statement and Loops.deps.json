@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Statement and Loops/1.0.0": {
+        "runtime": {
+          "Statement and Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Statement and Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

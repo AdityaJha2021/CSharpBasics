@@ -1,0 +1,15 @@
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\bin\Debug\net5.0\GenricsExample.exe
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\bin\Debug\net5.0\GenricsExample.deps.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\bin\Debug\net5.0\GenricsExample.runtimeconfig.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\bin\Debug\net5.0\GenricsExample.runtimeconfig.dev.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\bin\Debug\net5.0\GenricsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\bin\Debug\net5.0\ref\GenricsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\bin\Debug\net5.0\GenricsExample.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\GenricsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\GenricsExample.AssemblyInfoInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\GenricsExample.AssemblyInfo.cs
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\GenricsExample.csproj.CoreCompileInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\GenricsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\ref\GenricsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\GenricsExample.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\GenricsExample\obj\Debug\net5.0\GenricsExample.genruntimeconfig.cache

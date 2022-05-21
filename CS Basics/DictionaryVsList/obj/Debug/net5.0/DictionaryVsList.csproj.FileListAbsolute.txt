@@ -1,0 +1,16 @@
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.exe
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.deps.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.runtimeconfig.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.runtimeconfig.dev.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\bin\Debug\net5.0\ref\DictionaryVsList.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\bin\Debug\net5.0\DictionaryVsList.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.csproj.AssemblyReference.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.AssemblyInfoInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.AssemblyInfo.cs
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.csproj.CoreCompileInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\ref\DictionaryVsList.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\DictionaryVsList\obj\Debug\net5.0\DictionaryVsList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\bin\Debug\net5.0\Statement and Loops.exe
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\bin\Debug\net5.0\Statement and Loops.deps.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\bin\Debug\net5.0\Statement and Loops.runtimeconfig.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\bin\Debug\net5.0\Statement and Loops.runtimeconfig.dev.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\bin\Debug\net5.0\Statement and Loops.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\bin\Debug\net5.0\ref\Statement and Loops.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\bin\Debug\net5.0\Statement and Loops.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.csproj.AssemblyReference.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.AssemblyInfoInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.AssemblyInfo.cs
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.csproj.CoreCompileInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\ref\Statement and Loops.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\Statement and Loops\obj\Debug\net5.0\Statement and Loops.genruntimeconfig.cache

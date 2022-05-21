@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afmjWNmEgS7/l2vwjfKbjxcRxnhOtyUUeNRcxICbaKhPp7R05v/QNeHqXPEiNBwragmUtroeLhsmKAQixm+m5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aprakash58\\OneDrive - DXC Production\\Desktop\\self\\aaa_prep\\CS Basics\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aprakash58\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

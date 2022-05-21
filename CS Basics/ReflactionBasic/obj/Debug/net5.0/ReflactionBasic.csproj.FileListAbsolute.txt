@@ -1,0 +1,16 @@
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\bin\Debug\net5.0\ReflactionBasic.exe
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\bin\Debug\net5.0\ReflactionBasic.deps.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\bin\Debug\net5.0\ReflactionBasic.runtimeconfig.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\bin\Debug\net5.0\ReflactionBasic.runtimeconfig.dev.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\bin\Debug\net5.0\ReflactionBasic.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\bin\Debug\net5.0\ref\ReflactionBasic.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\bin\Debug\net5.0\ReflactionBasic.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.csproj.AssemblyReference.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.AssemblyInfoInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.AssemblyInfo.cs
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.csproj.CoreCompileInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ref\ReflactionBasic.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\ReflactionBasic\obj\Debug\net5.0\ReflactionBasic.genruntimeconfig.cache

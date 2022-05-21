@@ -1,0 +1,28 @@
+﻿@model WebApplication1.Models.Employee
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_employee</title>
+</head>
+<body>
+    <table style="font-family:Arial;border:1px solid black; width:300px">
+        <tr>
+            <td>First Name</td>
+            <td>Last Name</td>
+            <td>Designation</td>
+        </tr>
+        <tr>
+            <td>@Model.FirstName</td>
+            <td>@Model.LastName</td>
+            <td>@Model.Designation</td>
+        </tr>
+    </table>
+</body>
+</html>

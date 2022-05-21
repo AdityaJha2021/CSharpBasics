@@ -1,0 +1,16 @@
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\bin\Debug\net5.0\CS Basic and Console.exe
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\bin\Debug\net5.0\CS Basic and Console.deps.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\bin\Debug\net5.0\CS Basic and Console.runtimeconfig.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\bin\Debug\net5.0\CS Basic and Console.runtimeconfig.dev.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\bin\Debug\net5.0\CS Basic and Console.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\bin\Debug\net5.0\ref\CS Basic and Console.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\bin\Debug\net5.0\CS Basic and Console.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.csproj.AssemblyReference.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.AssemblyInfoInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.AssemblyInfo.cs
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.csproj.CoreCompileInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\ref\CS Basic and Console.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CS Basic and Console\obj\Debug\net5.0\CS Basic and Console.genruntimeconfig.cache

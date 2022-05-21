@@ -1,0 +1,16 @@
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\bin\Debug\net5.0\CollectionsExample.exe
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\bin\Debug\net5.0\CollectionsExample.deps.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\bin\Debug\net5.0\CollectionsExample.runtimeconfig.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\bin\Debug\net5.0\CollectionsExample.runtimeconfig.dev.json
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\bin\Debug\net5.0\CollectionsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\bin\Debug\net5.0\ref\CollectionsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\bin\Debug\net5.0\CollectionsExample.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.AssemblyInfoInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.AssemblyInfo.cs
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.csproj.CoreCompileInputs.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\ref\CollectionsExample.dll
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.pdb
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.genruntimeconfig.cache
+C:\Users\aprakash58\OneDrive - DXC Production\Desktop\self\aaa_prep\CS Basics\CollectionsExample\obj\Debug\net5.0\CollectionsExample.csproj.AssemblyReference.cache
